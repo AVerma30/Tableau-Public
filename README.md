@@ -1,9 +1,9 @@
 # Tableau Public Dashboards
 
-This repository showcases my **Tableau dashboards** that highlight my skills in **data analysis, visualization, and storytelling**.  
+This repository showcases my **Tableau dashboards** that highlight my skills in **data analysis, visualization and storytelling**.  
 Each project demonstrates my ability to work with raw datasets, perform data cleaning (using SQL/Python), and present insights through interactive dashboards.
 
-🔗 **View Full Portfolio on Tableau Public:** [Apoorv Verma - Tableau Public](https://public.tableau.com/app/profile/apoorv.verma2932/vizzes)
+ **View Full Portfolio on Tableau Public:** [Apoorv Verma - Tableau Public](https://public.tableau.com/app/profile/apoorv.verma2932/vizzes)
 
 ---
 
