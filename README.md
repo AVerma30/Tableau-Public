@@ -58,7 +58,7 @@ Each project demonstrates my ability to work with raw datasets, perform data cle
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Learned and Used
 - **Data Cleaning & Prep:** SQL, Python, Excel  
 - **Visualization Tools:** Tableau Public, Tableau Desktop  
 - **Business Intelligence:** KPI design, storytelling, dashboards  
@@ -66,7 +66,7 @@ Each project demonstrates my ability to work with raw datasets, perform data cle
 
 ---
 
-📌 For more projects, check my GitHub & portfolio:  
+ For more projects, check my GitHub & portfolio:  
 - [GitHub Profile](https://github.com/AVerma30)  
 - [Portfolio Website](http://apoorverma.com/)  
 - [LinkedIn](https://www.linkedin.com/in/apoorvverma68/)  
