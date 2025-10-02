@@ -66,7 +66,6 @@ Each project demonstrates my ability to work with raw datasets, perform data cle
 
 ---
 
- For more projects, check my GitHub & portfolio:  
-- [GitHub Profile](https://github.com/AVerma30)  
+For more of my projects:   
 - [Portfolio Website](http://apoorverma.com/)  
-- [LinkedIn](https://www.linkedin.com/in/apoorvverma68/)  
+- [LinkedIn](https://www.linkedin.com/in/apoorvverma68/)   
